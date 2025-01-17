@@ -37,7 +37,7 @@ Para rodar o projeto, você precisará de:
 Clone o repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/seu-username/SGBr-Teste.git 
+git clone https://github.com/andrelopesmelani/SGBr-Teste.git
 ```
 
 ### Passo 2: Navegar até o diretório do projeto
